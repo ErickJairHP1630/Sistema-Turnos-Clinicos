@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/docs/" />
+  <Project Path="TurnosClinicos Panel/TurnosClinicos Panel.csproj" />
+  <Project Path="TurnosClinicos.Benchmark/TurnosClinicos.Benchmark.csproj" />
+  <Project Path="TurnosClinicos.Core/TurnosClinicos.Core.csproj" />
+</Solution>
