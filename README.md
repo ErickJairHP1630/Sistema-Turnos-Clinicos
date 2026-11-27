@@ -29,9 +29,9 @@ La lógica principal está hecha implementando nuestra propia **Lista Doblemente
 3. Dale en compilar y presiona `F5` para iniciar.
 
 ## Bitácora de avances
-- [X] **Día 1:** Creación de la solución, estructura de carpetas y configuración del repositorio.
-- [ ] **Día 2:** Nodos y métodos básicos de la lista doble, modelos de turno y diseño inicial del Form.
-- [ ] **Día 3:** Inserciones intermedias, eliminación, adaptador de `LinkedList<T>` y vista del turno actual.
-- [ ] **Día 4:** Conexión con la interfaz, validaciones de campos (`ErrorProvider`) y pruebas de funcionamiento.
-- [ ] **Día 5:** Módulo de benchmark (comparativa de tiempos) y ventana de resultados.
-- [ ] **Día 6:** Pruebas finales en modo Release, capturas de pantalla y documentación en `docs/`.
+Hecho **Día 1:** Creación de la solución, estructura de carpetas y configuración del repositorio.
+Hecho **Día 2:** Discusión del avance. Nodos y métodos básicos de la lista doble, modelos de turno y diseño inicial del Form.
+Pendiente **Día 3:** Inserciones intermedias, eliminación, adaptador de `LinkedList<T>` y vista del turno actual.
+Pendiente **Día 4:** Conexión con la interfaz, validaciones de campos (`ErrorProvider`) y pruebas de funcionamiento.
+Pendiente **Día 5:** Módulo de benchmark (comparativa de tiempos) y ventana de resultados.
+Pendiente **Día 6:** Pruebas finales en modo Release, capturas de pantalla y documentación en `docs/`.
